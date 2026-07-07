@@ -1,0 +1,1 @@
+Jogo SNAKE criado com o Ollama, rodando o modelo queen 2.6 localmente na minha maquina
